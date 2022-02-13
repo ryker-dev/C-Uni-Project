@@ -1,0 +1,2 @@
+*.o
+valgrind.txt
